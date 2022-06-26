@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sandbox" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/QA/Автоматизация_тестирования_на_Java/clone_github/java_pft/sandbox" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/QA/Автоматизация_тестирования_на_Java/clone_github/java_pft/sandbox" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
